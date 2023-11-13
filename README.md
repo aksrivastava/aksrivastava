@@ -1,7 +1,7 @@
-<div style="padding-top:43.503%;position:relative;"><iframe src="https://gifer.com/embed/IspE" width="100%" height="100%" style='position:absolute;top:0;left:0;' frameBorder="0" allowFullScreen></iframe></div><p><a href="https://gifer.com">via GIFER</a></p>
+
 <h1 align="center">Hi 👋, I'm Aditya kumar Srivastava</h1>
 <h3 align="center">I AM A SELF-TAUGHT CYBERSECURITY EXPERT | ETHICAL HACKER | BUG-BOUNTY HUNTER | PENETRATION TESTER | SOFTWARE DEFINED RADIO SPECIALIST AND FULL STACK WEB DEVELOPER.</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/116207...">
+<img align="right" alt="Coding" width="400" src="https://i.gifer.com/IspE.gif">
 
 - 🌱 I’m currently learning **Software define radio**
 
